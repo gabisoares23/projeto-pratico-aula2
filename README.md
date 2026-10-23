@@ -1,2 +1,2 @@
 # exemplo-git-parte2
-Texto modificado diretamente na branch principal main.
+git merge minha-solucaoTexto modificado diretamente na branch principal main.
